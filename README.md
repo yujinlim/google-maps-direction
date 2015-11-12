@@ -38,3 +38,6 @@ Type: `String`
 To which location
 
 for more information about parameters, please read more [here](https://developers.google.com/maps/documentation/directions/intro#RequestParameters)
+
+## Related
+- [`google-maps-direction-cli`](https://github.com/yujinlim/google-maps-direction-cli)
