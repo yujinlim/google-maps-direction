@@ -1,0 +1,41 @@
+{
+  "name": "google-maps-direction",
+  "version": "1.0.0",
+  "description": "google maps direction simple api",
+  "main": "index.js",
+  "homepage": "https://github.com/yujinlim/google-maps-direction",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yujinlim/google-maps-direction.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yujinlim/google-maps-direction/issues"
+  },
+  "author": {
+    "name": "Yu Jin",
+    "email": "adamlyj89@gmail.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.4.2",
+    "bluebird": "^3.0.5",
+    "proxyquire": "^1.7.3"
+  },
+  "dependencies": {
+    "got": "^5.1.0"
+  },
+  "keywords": [
+    "google maps direction",
+    "google maps",
+    "google map",
+    "direction",
+    "google",
+    "map"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
