@@ -1,4 +1,4 @@
-# Google Maps Direction API
+# Google Maps Direction API [![Build Status](https://travis-ci.org/yujinlim/google-maps-direction.svg?branch=master)](https://travis-ci.org/yujinlim/google-maps-direction)
 > a simple google map direction api without requiring api key (by default)
 
 ## Install
